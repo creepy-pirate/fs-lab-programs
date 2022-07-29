@@ -1,4 +1,0 @@
-malayalam
-monday
-notepad
-java
